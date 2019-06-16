@@ -2,5 +2,5 @@ console.log('zxc')
 
 alert('zxc')
 
-console.log(12345)
+console.log(123456)
 alert(123)
